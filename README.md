@@ -1,4 +1,4 @@
-![Image](Images/Cover Image)
+<img width="2271" height="789" alt="Cover image" src="https://github.com/user-attachments/assets/98cfaa52-5534-41d1-8468-c6b176fa8250" />
 
 # Power Electronics for Renewable Energy and EV Charging
 
