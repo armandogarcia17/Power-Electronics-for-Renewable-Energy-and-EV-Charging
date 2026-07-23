@@ -1,6 +1,4 @@
-<img width="2271" height="789" alt="Cover image" src="https://github.com/user-attachments/assets/98cfaa52-5534-41d1-8468-c6b176fa8250" />
-
-\
+<img width="2271" height="789" alt="Cover image" src="https://github.com/user-attachments/assets/98cfaa52-5534-41d1-8468-c6b176fa8250" />\
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=armandogarcia17/Power-Electronics-for-Renewable-Energy-and-EV-Charging&project=https://github.com/armandogarcia17/Power-Electronics-for-Renewable-Energy-and-EV-Charging/blob/master/EV_and_Renewable_Energy_Technologies.prj)
 
