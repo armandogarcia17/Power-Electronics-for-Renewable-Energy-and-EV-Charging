@@ -1,4 +1,4 @@
-<span style="color:rgb(213,80,0)"> # Power Electronics for Renewable Energy and EV Charging</span>
+# <span style="color:rgb(213,80,0)">Power Electronics for Renewable Energy and EV Charging</span>
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=armandogarcia17/Power-Electronics-for-Renewable-Energy-and-EV-Charging&project=https://github.com/armandogarcia17/Power-Electronics-for-Renewable-Energy-and-EV-Charging/blob/master/EV_and_Renewable_Energy_Technologies.prj) or
 
