@@ -1,0 +1,1 @@
+doc = matlab.desktop.editor.openDocument(which('MainMenu.m'));
