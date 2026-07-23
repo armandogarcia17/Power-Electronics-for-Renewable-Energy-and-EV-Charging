@@ -1,3 +1,5 @@
+<img width="2271" height="789" alt="Cover image" src="https://github.com/user-attachments/assets/98cfaa52-5534-41d1-8468-c6b176fa8250" />
+
 # Power Electronics for Renewable Energy and EV Charging
 
 This repository contains MATLAB Live Script lectures for modern power conversion systems used in electric vehicle charging, photovoltaic generation, and wind energy conversion. These topics are central to today's energy industry because electrified transportation, distributed solar generation, grid-connected storage, and converter-dominated power systems all depend on efficient power electronics and reliable digital control.
