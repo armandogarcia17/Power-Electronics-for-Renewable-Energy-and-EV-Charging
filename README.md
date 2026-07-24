@@ -23,6 +23,16 @@ The lectures use MATLAB Live Scripts with Simulink and Simscape Electrical model
 - [Video References](#video-references)
 - [How to Use This Repository](#how-to-use-this-repository)
 
+## Getting Started
+Accessing the Module
+On MATLAB Online:
+Use the OpenInMO.png link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, and you will see an app with several navigation options to get you started.
+
+On Desktop:
+Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double-click on xxx. It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start.
+
+Ensure you have all the required products (listed below) installed. If you need to include a product, add it using the Add-On Explorer. To install an add-on, go to the Home tab and select AddOnsIcon.png Add-Ons > Get Add-Ons.
+
 ## Lecture Navigation
 
 Start with the charger lectures if your focus is EV infrastructure, or start with the PV and wind lectures if your focus is renewable generation and grid integration.
