@@ -115,10 +115,4 @@ These videos and video series are useful next steps after the lectures.
 - [Developing Electrical Systems with Simscape Electrical](https://www.mathworks.com/videos/series/developing-electrical-systems-with-simscape-electrical.html)
 - [Introduction to Electrical System Modeling](https://www.mathworks.com/videos/developing-electrical-systems-with-simscape-electrical-introduction-to-electrical-system-modeling-1653461675640.html)
 
-## How to Use This Repository
-
-Open the repository in MATLAB from the project root so relative paths to `Scripts`, `Models`, `Images`, and `Utilities` resolve consistently. The recommended entry point inside MATLAB is [`MainMenu.m`](MainMenu.m), which opens as a Live Script in the Live Editor.
-
-Open one lecture at a time, keep code hidden unless you are modifying the lesson, and run simulations only after confirming that the required products are installed. Many simulations take several minutes because the models include switching power electronics and physical electrical networks.
-
 When adapting the lectures for a course, keep the entry point, learner scripts, models, images, and utilities in their current top-level folders. That organization makes links predictable and keeps the Live Scripts focused on guided exploration instead of path management.
