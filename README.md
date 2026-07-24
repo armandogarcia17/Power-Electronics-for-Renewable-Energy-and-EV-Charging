@@ -24,14 +24,18 @@ The lectures use MATLAB Live Scripts with Simulink and Simscape Electrical model
 - [How to Use This Repository](#how-to-use-this-repository)
 
 ## Getting Started
-Accessing the Module
-On MATLAB Online:
-Use the OpenInMO.png link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, and you will see an app with several navigation options to get you started.
+### Accessing the Module
+### **On MATLAB Online:**
 
-On Desktop:
-Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double-click on xxx. It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start.
+Use the [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Engineering-Problem-Solving&project=EngineeringProblemSolving.prj) link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, and you will see an app with several navigation options to get you started.
 
-Ensure you have all the required products (listed below) installed. If you need to include a product, add it using the Add-On Explorer. To install an add-on, go to the Home tab and select AddOnsIcon.png Add-Ons > Get Add-Ons.
+### **On Desktop:**
+
+Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double\-click on [EngineeringProblemSolving.prj](https://github.com/MathWorks-Teaching-Resources/Engineering-Problem-Solving/blob/main/EngineeringProblemSolving.prj). It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start. 
+
+
+Ensure you have all the required products (listed below) installed. If you need to include a product, add it using the Add\-On Explorer. To install an add\-on, go to the **Home** tab and select  <img src="Images/AddOnsIcon.png" width="16" alt="AddOnsIcon.png"> **Add-Ons** > **Get Add-Ons**. 
+
 
 ## Lecture Navigation
 
